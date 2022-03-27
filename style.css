@@ -1,0 +1,56 @@
+body
+{
+	background-image: url("bgDaisy.jpg");
+	background-size:cover ;
+	background-position: center;
+	margin-top: 100px;
+	
+}
+
+#player1_name_input , #player2_name_input 
+{
+	border-width:2px;
+	border-color: #73fd03;
+	border-radius: 15px;
+	width: 330px;
+	height: 50px;
+	font-size: medium;
+	background-color: #000000;
+	color: white;
+}
+
+#login_div1, #login_div2{
+	background-color:rgb(131, 82, 163) ;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+label 
+{
+    padding-right: 250px;
+	color: #d6a4ff;
+	font-size: 20px;
+	font-family: Comic Sans MS;
+}
+
+#login 
+{
+	color: #000000;
+	background-color: #45fa45;
+	border-radius: 10px;
+	width: 240px;
+	height: 50px;
+	border-style: none;
+	font-size: medium;
+	font-weight: bold;
+}
+
+#title{
+	color: white;
+	font-family: monospace;
+}
+
+h4{
+	color: #8e4df8;
+}
